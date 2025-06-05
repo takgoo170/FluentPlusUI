@@ -10,7 +10,6 @@ FluentPlus 1.2.2 |   06.03 - Fixed some themes and mobile button, added normal b
 
 --- MOBILE -----------------
 local Show_Button = false -- Shows the button for toggle fluent ui manually. If "false", works only on mobile, if "true", works everytime.
-local Button_Icon = "rbxassetid://18230925277" -- Icon of the button for toggle fluent ui.
 local Button_Transparency = 1 -- Transparency of button background (check line #6365).
 ----------------------------
 
