@@ -1,8 +1,9 @@
 --[[             |
 '                |   Last changes:     
 FluentPlus 1.2.2 |   06.03 - Fixed some themes and mobile button, added normal bypass to Fisch. (it isn't working)
-dsc.gg/hydrahub  |   31.01 - added Show_Assets toggle. Soon ill make normal bypass.
+.gg/wDMPK3QAmY   |   31.01 - added Show_Assets toggle. Soon ill make normal bypass.
 '                |   29.01 - well well well removed last update, added "Bloody" theme and fluent-plus settings 😉
+                 |   04.06 - added "Hacker" theme
 ]]--    
 
 --- FLUENT PLUS SETTINGS ---
